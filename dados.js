@@ -10,7 +10,7 @@ let dados =
          titulo : "Claire Dunphy",
          descricao : "Claire Dunphy é a matriarca da família Dunphy, conhecida por sua personalidade organizada e controladora. Ela é uma mãe dedicada que busca a perfeição em tudo o que faz, desde a organização da casa até a vida profissional. Claire é frequentemente vista como a força motriz da família, sempre tentando manter tudo sob controle. Apesar de sua natureza exigente, ela possui um grande coração e um profundo amor por seus filhos. Sua busca constante pela ordem e pela perfeição muitas vezes a leva a situações cômicas, mas também demonstra sua dedicação à família.",
          link : "https://www.instagram.com/itsjuliebowen/",
-         ator : "Claire Dunphy"
+         ator : "Julie Bowen"
        },
        {
          titulo : "Phil Dunphy",
@@ -36,6 +36,12 @@ let dados =
          link : "https://www.instagram.com/jessetyler/",
          ator : "Jesse Tyler Ferguson"
        },
+       {
+        titulo : "Cameron Tucker",
+        descricao : "Cameron Tucker, interpretado por Eric Stonestreet, é um dos personagens mais memoráveis de Modern Family. Carismático e expressivo, Cameron é conhecido por seu amor por tudo que é extravagante, desde suas roupas coloridas até suas apresentações musicais. Casado com Mitchell Pritchett, ele forma um dos casais mais queridos da série. Cameron é um pai dedicado à Lily, sua filha adotiva, e um amigo leal para todos ao seu redor. Sua paixão por esportes, sua natureza teatral e seu senso de humor único trazem momentos hilários e emocionantes à série, tornando-o um personagem inesquecível para os fãs.",
+        link : "https://www.instagram.com/ericstonestreet/",
+        ator : "Eric Stonestreet"
+      },
        {
          titulo : "Gloria Pritchett",
          descricao : "#Gloria Pritchett é a personificação da paixão, da alegria e da vitalidade na família Pritchett. Nativa da Colômbia, ela traz consigo uma cultura vibrante e um temperamento caloroso. Muito mais jovem que seu marido, Jay, Gloria é conhecida por sua beleza exuberante, seu sotaque marcante e sua personalidade exuberante.",
